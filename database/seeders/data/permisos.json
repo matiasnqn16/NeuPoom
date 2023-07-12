@@ -1,0 +1,73 @@
+[
+    {
+        "idPermiso": "1",
+        "nombrePermiso":"Cronómetro.",
+        "rutaPermiso":"index_reloj"
+    },
+    {
+        "idPermiso": "2",
+        "nombrePermiso":"Ver Competencias.",
+        "rutaPermiso":"presentacion"
+    },
+    {
+        "idPermiso": "3",
+        "nombrePermiso":"Ver Competidores.",
+        "rutaPermiso":"tablaCompetidores"
+    },
+    {
+        "idPermiso": "4",
+        "nombrePermiso":"Gestión de Usuarios.",
+        "rutaPermiso":"index_usuarios"
+    },
+    {
+        "idPermiso": "5",
+        "nombrePermiso":"Gestión de Solicitudes.",
+        "rutaPermiso":"index_solicitudes"
+    },
+    {
+        "idPermiso": "6",
+        "nombrePermiso":"Gestión de Categorías.",
+        "rutaPermiso":"index_categoria"
+    },
+    {
+        "idPermiso": "7",
+        "nombrePermiso":"Gestión de Competencias.",
+        "rutaPermiso":"index_competencia"
+    },
+    {
+        "idPermiso": "8",
+        "nombrePermiso":"Gestión de Graduaciones.",
+        "rutaPermiso":"graduaciones.index"
+    },
+    {
+        "idPermiso": "9",
+        "nombrePermiso":"Ver Ranking General.",
+        "rutaPermiso":"resultadosRanking"
+    },
+    {
+        "idPermiso": "10",
+        "nombrePermiso":"Puntuador.",
+        "rutaPermiso":"puntuador_index"
+    },
+    {
+        "idPermiso": "11",
+        "nombrePermiso":"Inscribirse como Competidor.",
+        "rutaPermiso":"cargarCompetidor"
+    },
+    {
+        "idPermiso": "12",
+        "nombrePermiso":"Gestión de Poomsaes.",
+        "rutaPermiso":"index_poomsae"
+    },
+    {
+        "idPermiso": "13",
+        "nombrePermiso":"Gestión de Roles.",
+        "rutaPermiso":"roles.index"
+    },
+    {
+        "idPermiso": "14",
+        "nombrePermiso":"Gestión de Permisos.",
+        "rutaPermiso":"permisos.index"
+    }
+
+]
